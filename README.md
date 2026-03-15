@@ -71,7 +71,7 @@ npm install
 npx expo start
 ```
 
-### Executar em不同的 plataformas
+### Executar em plataformas
 
 - **Web**: `npx expo start --web`
 - **Android**: `npx expo start --android`
